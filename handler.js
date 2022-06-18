@@ -83,10 +83,10 @@ module.exports = kagura = async (kagura, m, chatUpdate, store) => {
             if (typeof chats !== 'object') global.db.data.chats[m.chat] = {}
             if (chats) {
                 if (!('mute' in chats)) chats.mute = false
-                if (!('antilink' in chats)) chats.antilink = false
+                if (!('antilink' in chats)) chats.antilink = true
             } else global.db.data.chats[m.chat] = {
                 mute: false,
-                antilink: false,
+                antilink: true,
             }
 		
 	    let setting = global.db.data.settings[botNumber]
