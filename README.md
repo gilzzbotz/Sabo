@@ -48,7 +48,8 @@ Click the deploy icon below !
 > npm start
 ```
 ## HANYA KANG RECODE ESCE
-```Yo, Gw Sabo
+```tes
+Yo, Gw Sabo
 Gw Orang Yg Gabut, Dan 
 Iseng Recode Esce :v
 ```
