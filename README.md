@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://github.com/SaboOfficial">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=400&lines=Created+By+Sabo+Official"
+            src="https://readme-typing-svg.herokuapp.com?size=20&width=280&lines=Created+By+Sabo+Official"
             alt="Tiktok @dzyyours"
         />
     </a>
