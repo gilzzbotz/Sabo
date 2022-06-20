@@ -47,6 +47,11 @@ Click the deploy icon below !
 > npm install
 > npm start
 ```
+## HANHA KANG RECODE ESCE
+```Yo, Gw Sabo
+Gw Orang Yg Gabut, Dan 
+Iseng Recode Esce :v
+```
 
 # My Sosial
 - [Group Bot Wa 1](https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d)
