@@ -12,20 +12,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['628815952469']
-global.premium = ['628815952469']
-global.botname = 'Sabo - MD'
-global.ownername = 'Sabo'
-global.packname = ''
-global.author = 'Created By Sabo'
+global.owner = ['6285730794089']
+global.premium = ['6285730794089']
+global.botname = 'Gilzz - MD'
+global.ownername = 'GilzzOFC'
+global.packname = 'GilzzTmvn'
+global.author = 'Created By Gilz'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
 success: '*_Done_*',
 admin: '*Fitur Ini Hanya Bisa Digunakan Oleh Admin Grup*',
-botAdmin: '*Jadikan Bot Sebagai Admin Terlebih Dahulu*',
-owner: '*Fitur Ini Khusus Owner Bot*',
+botAdmin: '*Jadikan Bot Admin Gblk*',
+owner: '*Emang Lu Owner?*',
 group: '*Fitur Ini Hanya Bisa Di Gunakan Di Group*',
 private: '*Fitur Ini Hanya Bisa Digunakan Di Private Message*',
 bot: '*Fitur Ini Khusud Pengguna Bot*',
